@@ -28,11 +28,9 @@ header {
     text-align: center;
 }
 
-h2, h4 {
+h2, h4, h3 {
     color: #346353;
 }
-
-
 
 section {
     margin-left: 150;
